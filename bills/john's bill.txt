@@ -1,0 +1,4 @@
+Bill breakdown:
+apple:                    ...$2
+tip:                      ...$23
+total:                    ...$25.00
